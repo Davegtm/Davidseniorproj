@@ -16,4 +16,4 @@ By default, Replit runs the `dev` script, but you can configure it by changing t
 
 Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
 
-[What is financial literacy?(https://www.youtube.com/watch?v=4j2emMn7UaI)]
+[Homelessness rates are a ‘crisis’ and ‘epidemic’](https://www.youtube.com/watch?v=rEkL0Sq-au8)
